@@ -1,6 +1,7 @@
 streamlit
-statsmodels
-yfinance
-plotly
 pandas
 numpy
+yfinance
+scipy
+statsmodels
+plotly
